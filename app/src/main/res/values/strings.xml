@@ -1,9 +1,32 @@
 <resources>
-    <string name="app_name">MyActivities</string>
+    <string name="app_name">Slambook</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="input_firstname">Input First Name</string>
+    <string name="input_lastname">Input First Name</string>
+    <string name="up_category">Answer the question...</string>
+    <string name="question_birthday">Birthday?</string>
+    <string name="question_age">Age?</string>
+    <string name="question_gender">Gender?</string>
+    <string name="question_hometown">Hometown?</string>
+    <string name="question_job">Job/Workplace?</string>
+    <string name="question_spoken">Languages Spoken?</string>
+    <string name="question_hobbies">Hobbies/Skills?</string>
+    <string name="question_color">What is your favorite color combination?</string>
+    <string name="question_food">What type of food do you like?</string>
+    <string name="question_sports">What is/are your favorite sports?</string>
+    <string name="question_anime">What is your favorite anime?</string>
+    <string name="question_superhero">What is your favorite superhero?</string>
+    <string name="question_teacher">Name one teacher that you will never forget?</string>
+    <string name="question_person">Who was the person you cried infront of?</string>
+    <string name="question_lover">What kind of lover are you?</string>
+    <string name="question_believe">Do you believe in love at first sight?Yes or No,why?</string>
+    <string name="question_sight">Do you believe in love at first sight?</string>
+    <string name="question_status">What is your relationship status?</string>
+    <string name="question_love">Define love:</string>
+    <string name="question_motto">Motto/Sayings:</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
